@@ -186,8 +186,23 @@ Set `cfg.SSM_name` to one of:
 
 ## Citation
 
-If you use this repository, please cite the associated IPIN paper/project once the final bibliographic entry is available.
+If you use this repository, please cite the associated forthcoming IPIN paper.
 
-Provisional project title:
+Text citation (pre-proceedings):
 
-> Full-state versus error-state Kalman filters in IMU-based distance measurement
+> Xiaofeng Ma and Simo Särkkä, "Full-State versus Error-State Kalman Filters in IMU-Based Distance Measurement," in *Proceedings of the 2026 International Conference on Indoor Positioning and Indoor Navigation (IPIN 2026)*, Rome, Italy, October 2026, forthcoming.
+
+BibTeX (pre-proceedings):
+
+```bibtex
+@inproceedings{Ma2026FullState,
+  author    = {Ma, Xiaofeng and S{\"a}rkk{\"a}, Simo},
+  title     = {Full-State versus Error-State Kalman Filters in IMU-Based Distance Measurement},
+  booktitle = {Proceedings of the 2026 International Conference on Indoor Positioning and Indoor Navigation (IPIN 2026)},
+  year      = {2026},
+  address   = {Rome, Italy},
+  note      = {Forthcoming}
+}
+```
+
+Update the author list, pages, publisher, DOI, and final proceedings title when the conference publishes the official bibliographic record.
