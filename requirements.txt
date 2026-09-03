@@ -1,0 +1,9 @@
+numpy
+scipy
+plotly
+torch
+tqdm
+pandas
+jupyter
+# Optional for Plotly static image export:
+# kaleido
